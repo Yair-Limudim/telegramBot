@@ -26,6 +26,6 @@ python3 contacts.py
 python contacts.py
 ```
 
-דוגמא שהרצתי על שרת של vercel 
+דוגמא שהרצתי על שרת של pythonAnywhere 
 
 http://yair1234.pythonanywhere.com/
