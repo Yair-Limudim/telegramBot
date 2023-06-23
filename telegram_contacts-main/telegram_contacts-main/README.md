@@ -28,4 +28,4 @@ python contacts.py
 
 דוגמא שהרצתי על שרת של vercel 
 
-[https://contacts-python-israel.vercel.app/](http://yair1234.pythonanywhere.com/)http://yair1234.pythonanywhere.com/
+http://yair1234.pythonanywhere.com/
